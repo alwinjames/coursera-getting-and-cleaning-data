@@ -21,7 +21,7 @@ timeBodyAccStd()-Y<br>
 timeBodyAccStd()-Z<br>
 timeGravityAccMean()-X<br>
 timeGravityAccMean()-Y<br>
-timeGravityAccMean()-Z<br><
+timeGravityAccMean()-Z<br>
 timeGravityAccStd()-X<br>
 timeGravityAccStd()-Y<br>
 timeGravityAccStd()-Z<br>
