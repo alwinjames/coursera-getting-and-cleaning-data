@@ -2,7 +2,7 @@
 download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", "getdata_dataset.zip")
 unzip("getdata_dataset.zip") 
 
-# Load the datasets
+# Load the train, test and subject datasets
 trainX <- read.table("./UCI HAR Dataset/train/X_train.txt")
 trainY <- read.table("./UCI HAR Dataset/train/Y_train.txt")
 trainSubject <- read.table("./UCI HAR Dataset/train/subject_train.txt")
